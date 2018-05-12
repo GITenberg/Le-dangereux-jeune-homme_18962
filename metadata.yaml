@@ -1,0 +1,37 @@
+_repo: Le-dangereux-jeune-homme_18962
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boylesve, René
+    aliases:
+    - Boylesve, Rene
+    - Tardivaux, René
+    birthdate: 1867
+    deathdate: 1926
+    gutenberg_agent_id: '8323'
+    url: http://www.gutenberg.org/2009/agents/8323
+    wikipedia: http://fr.wikipedia.org/wiki/Ren%C3%A9_Boylesve
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2006-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18962'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+- !lcsh 'Short stories, French'
+tableOfContents: 'Le dangereux jeune homme -- Les trois personnes -- La pièce fausse
+  -- La niaiserie -- Oh! ne chante pas! -- Le maître -- La partie carrée -- Analogie
+  -- Éloquence -- Nous sommes fachés avec Henriette -- Une maison comme il faut: Les
+  femmes de chambre de madame Ablette. Les anglaises de madame Ablette -- L''intransigeant
+  -- Les jeunes filles au jardin.'
+title: Le dangereux jeune homme
+url: http://www.gutenberg.org/ebooks/18962
